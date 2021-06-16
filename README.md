@@ -3,11 +3,36 @@ Hello-World is the repository to store my assignments while learning.
 
 ===========================================================
 ## Algorithm & Data Structure
-'Algorithm & Data Structure' is assignments and some data structure that I learned.
+`Algorithm & Data Structure` is assignments and some data structure that I learned.
+Binary Heap.py
+
+### Binary Heap.py
+`Binary Heap` is a data structrue, which can store numbers and parent is larger or smaller than all of it's childs.
+
+### QuickSort.py
+`QuickSort.py` is to do quicksort, which is O(nlogn)
+
+### build_heap.py
+`build_heap` is to transform an array into a min-heap, and output every swap.
+
+### check_brackets.py
+`check_brackets` is to check if input's brackets are well paired.
+
+### dishoint_set.py
+`dishoint_set` is a data structrue.
+
 
 
 ## Dealing Data
-'Dealing Data' is some simple codes used to deal with some data collected from class: chemoinformatics.
+`Dealing Data` is some simple codes used to deal with some data collected from class: chemoinformatics.
+
+### bar_graph.py
+`bar_graph` is to convert txt into a bar graph.
+
+
+### word_cloud.py
+`word_cloud` is to creat a word cloud graph.
+
 
 :smile::laughing::blush::smiley::relaxed::smirk::heart_eyes::stuck_out_tongue_winking_eye::grinning:
 
