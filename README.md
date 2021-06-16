@@ -1,7 +1,7 @@
 # Hello-World
 Hello-World is the repository to store my assignments while learning.
 
-=====================================================================
+===========================================================
 ## Algorithm & Data Structure
 'Algorithm & Data Structure' is assignments and some data structure that I learned.
 
@@ -15,4 +15,4 @@ Hello-World is the repository to store my assignments while learning.
 
 :taxi::oncoming_taxi::articulated_lorry::bus::airplane::sunny::cloud::cactus::herb:
 
-   :bouquet::cherry_blossom::tulip::four_leaf_clover::rose::sunflower::hibiscus:
+:bouquet::cherry_blossom::tulip::four_leaf_clover::rose::sunflower::hibiscus:
