@@ -1,5 +1,5 @@
 # Hello-World
-Hello-World is the repository to store my assignments while learning.
+Hello-World is the repository to store my assignments and some interesting stuffs while learning programming.
 
 ===========================================================
 ## :sunny: Algorithm & Data Structure
