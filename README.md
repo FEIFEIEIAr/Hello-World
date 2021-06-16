@@ -2,7 +2,7 @@
 Hello-World is the repository to store my assignments while learning.
 
 ===========================================================
-## Algorithm & Data Structure
+## :sunny: Algorithm & Data Structure
 `Algorithm & Data Structure` is assignments and some data structure that I learned.
 
 ### Binary Heap.py
@@ -22,7 +22,7 @@ Hello-World is the repository to store my assignments while learning.
 
 
 
-## Dealing Data
+## :cloud: Dealing Data
 `Dealing Data` is some simple codes used to deal with some data collected from class: chemoinformatics.
 
 ### bar_graph.py
@@ -32,7 +32,7 @@ Hello-World is the repository to store my assignments while learning.
 ### word_cloud.py
 - `word_cloud` is to creat a word cloud graph.
 
-## Stuffs
+## :airplane: Stuffs
 `Stuffs` is some interesting programs beyond class.
 
 ### Game.py
