@@ -6,6 +6,7 @@ import os
 import pandas as pd
 import sklearn
 import sys
+import cv2
 import tensorflow as tf
 from tensorflow import keras
 import random
