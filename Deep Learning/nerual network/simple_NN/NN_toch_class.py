@@ -26,7 +26,7 @@ class MyNet(torch.nn.Module):
         self.activation = torch.nn.Sigmoid()
 
     def forward(self, x):
-        y_pred = self.linear2(self.activation(self.linear1(x)))
+        y_pred = self.activation(self.linear2(self.activation(self.linear1(x))))
         return y_pred
 
 
