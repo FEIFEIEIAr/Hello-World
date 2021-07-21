@@ -44,6 +44,8 @@ class Model():
             loss = np.square(y_pred - self.y).sum()
             if i % 10 == 0:
                 print('epoch:', i, 'loss:', loss)
+                if loss < 1000:
+                    self.LEARNING_RATE = self.LEARNING_RATE * 0.1
 
             # backward
             # d(loss)/d(w1)
